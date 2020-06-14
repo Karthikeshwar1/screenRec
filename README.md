@@ -11,6 +11,19 @@
 
 <br>
 
+## usage
+
+Select the upper left corner and the lower right corner of the image to be captured.
+Click to continue.
+
+__s :__ save screenshot
+
+**r :** start recording video
+
+**q :** quit
+
+<br>
+
 ## features
 * **GUI** lets you select grab any part of the screen for recording/snapping
 
@@ -23,18 +36,6 @@
 
 ![screenshot of CLI](/Images/screenshotCLI.png)
 
-<br>
-
-## usage
-
-Select the upper left corner and the lower right corner of the image to be captured.
-Click to continue.
-
-__s :__ save screenshot
-
-**r :** start recording video
-
-**q :** quit
 
 <br>
 
